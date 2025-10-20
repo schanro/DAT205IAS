@@ -1,1 +1,1 @@
-AI was used with the formatting and commenting the code.
+AI was used to assist with the formatting and commenting of this code.
